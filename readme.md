@@ -28,7 +28,3 @@ O layout deste projeto foi inspirado em [Starbucks Coffee Landing Page](https://
 ## Autor
 
 - [Wesley Batista Santana]
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
